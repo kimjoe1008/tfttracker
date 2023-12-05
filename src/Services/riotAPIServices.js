@@ -1,4 +1,4 @@
-const API_KEY = 'RGAPI-cc47e8fd-e325-48f7-8d00-ae197dcac5d5';
+const API_KEY = "";
 const baseurl = 'https://na1.api.riotgames.com/tft/';
 
 //having the functions just have to call one method to retrieve data and having to input the endpoint only is more efficient
