@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import './Services/riotAPIServices';
-import { getChallengerLeaderboard } from './Services/riotAPIServices';
+import {getChallengerLeaderboard, getGrandMasterLeaderboard } from './Services/riotAPIServices';
 
 function App() {
   console.log(getChallengerLeaderboard());
